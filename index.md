@@ -15,6 +15,12 @@ title: engineeringandroid
     <a href="/framework/test.html">Android Client System Design</a><br>
 </div>
 
+<div class="section-title">Languages</div>
+<div class="link-matrix" style="line-height: 1.8;">
+    <a href="/framework/test.html">Kotlin</a><br>
+    <a href="/framework/test.html">Java</a><br>
+</div>
+
 <div class="section-title" style="margin-top: 30px;">Concurrency</div>
 <div class="link-matrix" style="line-height: 1.8;">
     <a href="/concurrency/coroutines/index.html">Coroutines</a><br>
