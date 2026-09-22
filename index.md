@@ -24,7 +24,6 @@ title: engineeringandroid
 <div class="section-title" style="margin-top: 30px;">Concurrency</div>
 <div class="link-matrix" style="line-height: 1.8;">
     <a href="/concurrency/coroutines/index.html">Coroutines</a><br>
-    <a href="/framework/test.html">Dispatchers</a><br>
     <a href="/framework/test.html">Structured Concurrency</a><br>
     <a href="/framework/test.html">Reactive Streams</a><br>
 </div>
