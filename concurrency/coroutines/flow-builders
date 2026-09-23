@@ -1,0 +1,17 @@
+---
+layout: default
+title: Flow Builders
+---
+
+<h1>Flow Builders</h1>
+<hr>
+
+<div class="content">
+<p>Flow builders are special Kotlin functions used to create and initialize a Kotlin Flow, which is an asynchronous data stream that emits multiple values sequentially.</p>
+
+<p>Types of Flow builders:</p>
+<ul>
+    <li><strong>Dispatchers.Main</strong>: Executes on the single application UI thread. Used exclusively for rendering interface components, responding to user touches, or updating live data.</li
+</ul>
+
+</div>
