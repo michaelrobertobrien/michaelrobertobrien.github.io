@@ -30,8 +30,8 @@ title: engineeringandroid
 
 <div class="section-title" style="margin-top: 30px;">UI</div>
 <div class="link-matrix" style="line-height: 1.8;">
-    <a href="/framework/test.html">Jetpack Compose</a><br>
-    <a href="/framework/test.html">View System (XML)</a><br>
+    <a href="/ui/jetpack-compose.html">Jetpack Compose</a><br>
+    <a href="/ui/xml.html">View System (XML)</a><br>
 </div>
 
 <div class="section-title" style="margin-top: 30px;">Media</div>
