@@ -1,0 +1,23 @@
+---
+layout: default
+title: Jetpack Compose
+---
+
+<h1>Jetpack Compose</h1>
+<hr>
+
+<div class="content">
+<p>Dispatchers specify exactly which thread or thread pool a coroutine will use to start and resume its execution.</p>
+
+<p>The four built-in dispatchers:</p>
+<ul>
+    <li><strong>Dispatchers.Main</strong>: Executes on the single application UI thread. Used exclusively for rendering interface components, responding to user touches, or updating live data.</li>
+    
+    <li><strong>Dispatchers.IO</strong>: Backed by an elastic shared pool of up to 64 threads (or core count, whichever is larger). Used for blocking operations like reading files, querying databases via Room, or making network calls.</li>
+    
+    <li><strong>Dispatchers.Default</strong>: Backed by a thread pool sized to match the number of available CPU cores (min. 2). Used for processor-heavy work like sorting massive arrays, processing images, or parsing complex JSON.</li>
+    
+    <li><strong>Dispatchers.Unconfined</strong>: Executes immediately in the current calling thread, but switches to whatever thread a subsequent suspension point dictates. Generally avoid in production application code.</li>
+</ul>
+
+</div>
