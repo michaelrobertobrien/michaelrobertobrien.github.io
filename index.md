@@ -4,7 +4,7 @@ title: engineeringandroid
 ---
 
 <h1>Engineering Android</h1>
-<div class="subheader">Everything I know about engineering for Android. Lots to come!</div>
+<div class="subheader">Everything I know about engineering for Android.</div>
 <hr>
 
 <div class="section-title">Architecture & Design</div>
